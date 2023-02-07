@@ -11,7 +11,7 @@ To run the code, you need to have Python and the Pygame library installed. You c
 
 After installing Pygame, you can run the code by executing the following command:
 
-`python3 space_invader.py`
+`python3 main_game.py`
 
 
 The game will start and you can play using the arrow keys to move the spaceship and the space bar to shoot.
